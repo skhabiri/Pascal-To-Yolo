@@ -1,0 +1,5 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+Bird:128,0,0::
+Drone:0,128,0::
+Quadcopter:128,128,0::
